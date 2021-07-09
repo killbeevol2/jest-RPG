@@ -1,22 +1,16 @@
 {
-  "name": "jest-rpg",
+  "name": "rpg",
   "version": "1.0.0",
-  "description": "rpg game",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/killbeevol2/jest-RPG.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/killbeevol2/jest-RPG/issues"
-  },
-  "homepage": "https://github.com/killbeevol2/jest-RPG#readme",
-  "devDependencies": {
-    "jest": "^27.0.6"
+  "dependencies": {
+    "inquirer": "^7.0.3",
+    "jest": "^24.9.0"
   }
 }
